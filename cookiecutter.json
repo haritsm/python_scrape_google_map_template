@@ -1,0 +1,7 @@
+{
+    "order_date": "yyyy-mm-dd",
+    "client_username": "fiverr_username",
+    "packaged_chosen": ["Basic", "Standard", "Premium"],
+    "project_name": "project_name",
+    "request": "description"
+}
